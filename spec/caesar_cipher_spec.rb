@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require './caesarCipher'
+require './caesar_cipher'
 
 describe 'encryption' do
   describe 'encrypt' do
